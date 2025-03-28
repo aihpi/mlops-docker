@@ -2,7 +2,7 @@
 
 # Containerize your intelligence: A hands-on Workshop on Deploying AI models with Docker
 Welcome to our workshop on deploying machine learning models using Docker, hosted by the AI Service Center in Berlin-Brandenburg. 
-Visit our [website](https://hpi.de/en/kisz/home.html) for more details about our offerings!
+Visit our [website](https://hpi.de/en/research/hpi-data-center/ai-service-center/) for more details about our offerings!
 
 ## Open this Repository on Gitpod
 We can follow this workshop fully through Gitpod's VSCode, **no need to install software locally**, but we also provide the instructions for a local installation as an option.
